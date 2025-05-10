@@ -226,5 +226,9 @@ body {
         font-size: 1.5rem;
         word-wrap: break-word;
     }
+
+    .cursos {
+        font-size: 2rem;
+    }
 }
 
