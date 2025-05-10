@@ -211,8 +211,8 @@ body {
     }
 
     .apresentacao_curriculo {
-        padding: 40px 10%;
-        margin-bottom: 40px;
+        padding: 5% 5%;
+        gap: 40px;
     }
 }
 
