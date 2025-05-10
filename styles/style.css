@@ -190,7 +190,8 @@ body {
 
 @media (max-width: 400px) {
     .apresentacao_curriculo {
-        width: 400px;
+        width: 300px;
+        heigth: 200px;
     }
 
     .cabecalho {
