@@ -187,11 +187,3 @@ body {
         width: auto;
     }
 }
-
-@media (max-width: 400px) {
-    
-    .cabecalho {
-        width: 350px;
-        justify-content: center;
-    }
-}
