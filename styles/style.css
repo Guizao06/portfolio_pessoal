@@ -195,5 +195,6 @@ body {
 
     .cabecalho {
         width: 330px;
+        justify-content: center;
     }
 }
