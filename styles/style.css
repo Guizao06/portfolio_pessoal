@@ -217,7 +217,7 @@ body {
 
     .frases {
         width: 100%;
-        padding: 0;
+        padding: 5%;
         text-align: left;
         align-items: flex-start;
     }
