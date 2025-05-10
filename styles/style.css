@@ -187,3 +187,19 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 600px) {
+    .cabecalho_menu {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .botoes {
+        width: 100%;
+    }
+
+    .imagem {
+        width: 80%;
+    }
+}
+
