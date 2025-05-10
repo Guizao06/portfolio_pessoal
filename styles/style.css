@@ -201,5 +201,9 @@ body {
     .imagem {
         width: 80%;
     }
+
+    .apresentacao_curriculo {
+    padding: 5% 17% 5% 17%;
+}
 }
 
