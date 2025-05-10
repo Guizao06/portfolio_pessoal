@@ -202,8 +202,17 @@ body {
         width: 80%;
     }
 
+    .apresentacao {
+        margin-bottom: 40px;
+    }
+
+    .rodape {
+        margin-top: 40px;
+    }
+
     .apresentacao_curriculo {
-    padding: 5% 17% 5% 17%;
-}
+        padding: 40px 10%;
+        margin-bottom: 40px;
+    }
 }
 
