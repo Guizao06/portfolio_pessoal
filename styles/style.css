@@ -22,7 +22,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0 0 35%;
+    padding: 2% 0 0 10%;
 }
 
 .cabecalho_menu {
@@ -134,6 +134,14 @@ body {
     font-weight: 400;
 }
 
+.apresentacao_curriculo {
+    padding: 6% 17%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
 .titulo_curriculo {
     font-size: 2.03rem;
     font-family: var(--fonte-krona);
@@ -177,5 +185,15 @@ body {
 
     .frases {
         width: auto;
+    }
+}
+
+@media (max-width: 400px) {
+    .apresentacao_curriculo {
+        width: 360px;
+    }
+
+    .cabecalho {
+        width: 330px;
     }
 }
