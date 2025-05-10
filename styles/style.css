@@ -180,7 +180,7 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 7%;
+        padding: 0%;
     }
 
     .frases {
