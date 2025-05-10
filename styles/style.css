@@ -211,7 +211,7 @@ body {
     }
 
     .apresentacao_curriculo {
-        padding: 5% 5%;
+        padding: 20px 5%;
         gap: 40px;
     }
 
@@ -219,6 +219,12 @@ body {
         width: 100%;
         padding: 0;
         text-align: center;
+    }
+
+    .listas_curriculo,
+    .listas_curriculo_2 {
+        font-size: 1rem;
+        word-wrap: break-word;
     }
 }
 
